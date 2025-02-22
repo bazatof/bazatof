@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bazatof
 - 👀 I’m interested in coding and machine learning
-- 🌱 I’m currently learning python, java, HTML & CSS
+- 🌱 I’m currently learning Python, JavaScript , HTML & CSS
 - 💞️ I’m looking to collaborate on data analyst, project manager, game tester...
 - 📫 How to reach me -> christophe.bazille@gmail.com
 - ⚡ Fun fact: Video games and music lover
